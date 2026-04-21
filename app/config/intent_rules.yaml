@@ -1,0 +1,23 @@
+REPORTING:
+  cleaning: moderate
+  privacy: masked
+  aggregation: monthly
+  storage: warehouse
+
+ML_TRAINING:
+  cleaning: strict
+  privacy: masked
+  aggregation: none
+  storage: feature_store
+
+COMPLIANCE:
+  cleaning: none
+  privacy: restricted
+  aggregation: none
+  storage: secure_raw
+
+RESEARCH:
+  cleaning: moderate
+  privacy: anonymized
+  aggregation: sampled
+  storage: research

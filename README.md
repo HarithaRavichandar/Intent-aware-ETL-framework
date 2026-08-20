@@ -394,9 +394,6 @@ Modify storage writers in `app/storage/` to change output formats or locations
 - [ ] Multi-file batch processing
 - [ ] Advanced data governance features
 
-## License
-
-[Add your license here]
 
 ## Support & Contact
 
